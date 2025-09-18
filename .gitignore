@@ -1,0 +1,11 @@
+# Python cache & compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables (contains secrets)
+.env
+
+oracleJdk-24/
