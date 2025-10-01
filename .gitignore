@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+env/
+
+# Secrets
+.env
+*.key
+*.secret
+
+# Data files (optional, you can keep structured.json if you want)
+data/raw_blob_*.txt
